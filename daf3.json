@@ -1,37 +1,31 @@
 {
-  "ma": {
-    "Customer Information": "معلومات الزبون",
-    "Full Name": "الاسم الكامل",
-    "Phone Number": "رقم الهاتف",
-    "Email": "البريد الإلكتروني",
-    "Country (Optional)": "الدولة (اختياري)",
-    "City (Optional)": "المدينة (اختياري)",
-    "Instagram Profile link to get free followers here ⬇️": "رابط ملف Instagram للحصول على متابعين مجانيين هنا ⬇️",
-    "Where did you know about us? (Optional)": "من أين عرفت عنا؟ (اختياري)",
-    "Coupon Code (Optional)": "رمز القسيمة (اختياري)",
-    "Apply": "تطبيق",
-    "Invalid promo code.": "رمز القسيمة غير صالح.",
-    "Order Notes (Optional)": "ملاحظات الطلب (اختياري)",
-    "Upload Screenshot Payment Receipt": "تحميل إيصال الدفع باللقطة",
-    "Order Summary": "ملخص الطلب",
-    "Checkout": "الدفع"
-  },
-  "eg": {
-    "Customer Information": "معلومات العميل",
-    "Full Name": "الاسم الكامل",
-    "Phone Number": "رقم الهاتف",
-    "Email": "البريد الإلكتروني",
-    "Country (Optional)": "الدولة (اختياري)",
-    "City (Optional)": "المدينة (اختياري)",
-    "Instagram Profile link to get free followers here ⬇️": "رابط حساب Instagram للحصول على متابعين مجانيين هنا ⬇️",
-    "Where did you know about us? (Optional)": "كيف عرفت عنا؟ (اختياري)",
-    "Coupon Code (Optional)": "رمز القسيمة (اختياري)",
-    "Apply": "تطبيق",
-    "Invalid promo code.": "رمز القسيمة غير صالح.",
-    "Order Notes (Optional)": "ملاحظات الطلب (اختياري)",
-    "Upload Screenshot Payment Receipt": "تحميل لقطة إيصال الدفع",
-    "Order Summary": "ملخص الطلب",
-    "Checkout": "الدفع"
-  }
-  // أضف الترجمات الأخرى حسب الحاجة
+    "ma": {
+        "customerInfo": {
+            "title": "معلومات العميل",
+            "sections": [
+                {
+                    "title": "اسم كامل",
+                    "content": "يرجى إدخال اسمك الكامل."
+                },
+                {
+                    "title": "رقم الهاتف",
+                    "content": "يرجى إدخال رقم هاتفك."
+                },
+                {
+                    "title": "البريد الإلكتروني",
+                    "content": "يرجى إدخال بريدك الإلكتروني."
+                },
+                {
+                    "title": "البلد (اختياري)",
+                    "content": "يرجى إدخال بلدك."
+                },
+                {
+                    "title": "المدينة (اختياري)",
+                    "content": "يرجى إدخال مدينتك."
+                }
+                // أضف المزيد من الأقسام حسب الحاجة
+            ]
+        }
+    },
+    // أضف ترجمات أخرى للدول واللغات هنا
 }
