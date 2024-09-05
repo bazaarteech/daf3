@@ -1,31 +1,254 @@
 {
-    "ma": {
-        "customerInfo": {
-            "title": "معلومات العميل",
-            "sections": [
-                {
-                    "title": "اسم كامل",
-                    "content": "يرجى إدخال اسمك الكامل."
-                },
-                {
-                    "title": "رقم الهاتف",
-                    "content": "يرجى إدخال رقم هاتفك."
-                },
-                {
-                    "title": "البريد الإلكتروني",
-                    "content": "يرجى إدخال بريدك الإلكتروني."
-                },
-                {
-                    "title": "البلد (اختياري)",
-                    "content": "يرجى إدخال بلدك."
-                },
-                {
-                    "title": "المدينة (اختياري)",
-                    "content": "يرجى إدخال مدينتك."
-                }
-                // أضف المزيد من الأقسام حسب الحاجة
-            ]
+  "sa": {
+    "customerInfo": {
+      "title": "معلومات العميل",
+      "sections": [
+        {
+          "title": "تفاصيل الطلب",
+          "content": [
+            "يرجى ملء النموذج أدناه لإتمام عملية الشراء.",
+            "احرص على إدخال جميع المعلومات بدقة."
+          ]
+        },
+        {
+          "title": "ملاحظات الطلب",
+          "content": "يمكنك إضافة أي ملاحظات حول الطلب هنا."
         }
-    },
-    // أضف ترجمات أخرى للدول واللغات هنا
-}
+      ]
+    }
+  },
+  "ma": {
+    "customerInfo": {
+      "title": "معلومات الزبون",
+      "sections": [
+        {
+          "title": "تفاصيل الطلب",
+          "content": [
+            "يرجى ملء النموذج أدناه لإتمام عملية الشراء.",
+            "تأكد من إدخال جميع المعلومات بدقة."
+          ]
+        },
+        {
+          "title": "ملاحظات الطلب",
+          "content": "يمكنك إضافة أي ملاحظات حول الطلب هنا."
+        }
+      ]
+    }
+  },
+  "kw": {
+    "customerInfo": {
+      "title": "معلومات العميل",
+      "sections": [
+        {
+          "title": "تفاصيل الطلب",
+          "content": [
+            "يرجى ملء النموذج أدناه لإتمام عملية الشراء.",
+            "تأكد من إدخال جميع المعلومات بدقة."
+          ]
+        },
+        {
+          "title": "ملاحظات الطلب",
+          "content": "يمكنك إضافة أي ملاحظات حول الطلب هنا."
+        }
+      ]
+    }
+  },
+  "qa": {
+    "customerInfo": {
+      "title": "معلومات العميل",
+      "sections": [
+        {
+          "title": "تفاصيل الطلب",
+          "content": [
+            "يرجى ملء النموذج أدناه لإتمام عملية الشراء.",
+            "تأكد من إدخال جميع المعلومات بدقة."
+          ]
+        },
+        {
+          "title": "ملاحظات الطلب",
+          "content": "يمكنك إضافة أي ملاحظات حول الطلب هنا."
+        }
+      ]
+    }
+  },
+  "bh": {
+    "customerInfo": {
+      "title": "معلومات العميل",
+      "sections": [
+        {
+          "title": "تفاصيل الطلب",
+          "content": [
+            "يرجى ملء النموذج أدناه لإتمام عملية الشراء.",
+            "تأكد من إدخال جميع المعلومات بدقة."
+          ]
+        },
+        {
+          "title": "ملاحظات الطلب",
+          "content": "يمكنك إضافة أي ملاحظات حول الطلب هنا."
+        }
+      ]
+    }
+  },
+  "ae": {
+    "customerInfo": {
+      "title": "معلومات العميل",
+      "sections": [
+        {
+          "title": "تفاصيل الطلب",
+          "content": [
+            "يرجى ملء النموذج أدناه لإتمام عملية الشراء.",
+            "تأكد من إدخال جميع المعلومات بدقة."
+          ]
+        },
+        {
+          "title": "ملاحظات الطلب",
+          "content": "يمكنك إضافة أي ملاحظات حول الطلب هنا."
+        }
+      ]
+    }
+  },
+  "om": {
+    "customerInfo": {
+      "title": "معلومات العميل",
+      "sections": [
+        {
+          "title": "تفاصيل الطلب",
+          "content": [
+            "يرجى ملء النموذج أدناه لإتمام عملية الشراء.",
+            "تأكد من إدخال جميع المعلومات بدقة."
+          ]
+        },
+        {
+          "title": "ملاحظات الطلب",
+          "content": "يمكنك إضافة أي ملاحظات حول الطلب هنا."
+        }
+      ]
+    }
+  },
+  "dz": {
+    "customerInfo": {
+      "title": "معلومات العميل",
+      "sections": [
+        {
+          "title": "تفاصيل الطلب",
+          "content": [
+            "يرجى ملء النموذج أدناه لإتمام عملية الشراء.",
+            "تأكد من إدخال جميع المعلومات بدقة."
+          ]
+        },
+        {
+          "title": "ملاحظات الطلب",
+          "content": "يمكنك إضافة أي ملاحظات حول الطلب هنا."
+        }
+      ]
+    }
+  },
+  "tn": {
+    "customerInfo": {
+      "title": "معلومات العميل",
+      "sections": [
+        {
+          "title": "تفاصيل الطلب",
+          "content": [
+            "يرجى ملء النموذج أدناه لإتمام عملية الشراء.",
+            "تأكد من إدخال جميع المعلومات بدقة."
+          ]
+        },
+        {
+          "title": "ملاحظات الطلب",
+          "content": "يمكنك إضافة أي ملاحظات حول الطلب هنا."
+        }
+      ]
+    }
+  },
+  "eg": {
+    "customerInfo": {
+      "title": "معلومات العميل",
+      "sections": [
+        {
+          "title": "تفاصيل الطلب",
+          "content": [
+            "يرجى ملء النموذج أدناه لإتمام عملية الشراء.",
+            "تأكد من إدخال جميع المعلومات بدقة."
+          ]
+        },
+        {
+          "title": "ملاحظات الطلب",
+          "content": "يمكنك إضافة أي ملاحظات حول الطلب هنا."
+        }
+      ]
+    }
+  },
+  "es": {
+    "customerInfo": {
+      "title": "Información del Cliente",
+      "sections": [
+        {
+          "title": "Detalles del Pedido",
+          "content": [
+            "Por favor, complete el siguiente formulario para finalizar la compra.",
+            "Asegúrese de ingresar toda la información correctamente."
+          ]
+        },
+        {
+          "title": "Notas del Pedido",
+          "content": "Puede agregar cualquier nota sobre el pedido aquí."
+        }
+      ]
+    }
+  },
+  "de": {
+    "customerInfo": {
+      "title": "Kundeninformationen",
+      "sections": [
+        {
+          "title": "Bestelldetails",
+          "content": [
+            "Bitte füllen Sie das folgende Formular aus, um den Kauf abzuschließen.",
+            "Stellen Sie sicher, dass Sie alle Informationen korrekt eingeben."
+          ]
+        },
+        {
+          "title": "Bestellnotizen",
+          "content": "Sie können hier Notizen zur Bestellung hinzufügen."
+        }
+      ]
+    }
+  },
+  "tr": {
+    "customerInfo": {
+      "title": "Müşteri Bilgileri",
+      "sections": [
+        {
+          "title": "Sipariş Detayları",
+          "content": [
+            "Satın alma işlemini tamamlamak için aşağıdaki formu doldurun.",
+            "Tüm bilgileri doğru girdiğinizden emin olun."
+          ]
+        },
+        {
+          "title": "Sipariş Notları",
+          "content": "Sipariş hakkında herhangi bir not ekleyebilirsiniz."
+        }
+      ]
+    }
+  },
+  "fr": {
+    "customerInfo": {
+      "title": "Informations Client",
+      "sections": [
+        {
+          "title": "Détails de la Commande",
+          "content": [
+            "Veuillez remplir le formulaire ci-dessous pour compléter l'achat.",
+            "Assurez-vous de saisir toutes les informations correctement."
+          ]
+        },
+        {
+          "title": "Notes de Commande",
+          "content": "Vous pouvez ajouter des notes concernant la commande ici."
+        }
+      ]
+    }
+  }
+        }
